@@ -40,3 +40,4 @@
 6. Алгоритм Маркова, домашняя работа по "Дискретной Математике": https://github.com/seigtm/markov
 7. Все его лабораторные работы по Стасу (Fortran): https://github.com/seigtm/fortran_examples
    
+Я нашел еще много репозиториев с лабами и курсовыми (30+) и пометил их [звездой](https://github.com/zcx1337?tab=stars).
